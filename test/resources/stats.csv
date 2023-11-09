@@ -1,0 +1,53 @@
+2023-09-15 14:51:26,Delete,Index Name: Policy Search,Unique Count of doc_name: 31,Number of Fields in Index: 3,Total Records in Index: 622
+2023-09-15 14:51:48,Read,Index Name: Policy Search,Unique Count of doc_name: 26,Number of Fields in Index: 3,Total Records in Index: 573
+2023-09-15 14:52:27,Read,Index Name: Policy Search,Unique Count of doc_name: 26,Number of Fields in Index: 3,Total Records in Index: 573
+2023-09-15 14:52:27,Read,Index Name: Policy Search,Unique Count of doc_name: 26,Number of Fields in Index: 3,Total Records in Index: 573
+2023-09-15 14:52:35,Delete,Index Name: Policy Search,Unique Count of doc_name: 26,Number of Fields in Index: 3,Total Records in Index: 573
+2023-09-15 14:52:45,Delete,Index Name: Policy Search,Unique Count of doc_name: 26,Number of Fields in Index: 3,Total Records in Index: 573
+2023-09-15 14:52:45,Delete,Index Name: Policy Search,Unique Count of doc_name: 26,Number of Fields in Index: 3,Total Records in Index: 573
+2023-09-21 13:08:18,Update,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 174
+2023-09-21 13:10:03,Read,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 174
+2023-09-21 13:11:58,Update,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 174
+2023-09-21 13:13:57,Read,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 174
+2023-09-21 13:16:27,Update,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 174
+2023-09-21 13:16:39,Update,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 174
+2023-09-21 13:20:12,Update,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 174
+2023-09-21 13:20:33,Update,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 174
+2023-09-21 13:20:44,Update,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 174
+2023-09-21 13:21:00,Update,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 174
+2023-09-21 13:24:51,Read,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 174
+2023-09-21 13:28:29,Delete,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 174
+2023-09-21 13:31:28,Update,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-21 13:31:40,Update,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-21 13:32:14,Update,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-21 13:32:20,Update,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-21 13:33:05,Read,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-21 13:38:35,Read,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-21 13:46:10,Read,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-21 13:51:55,Delete,Index Name: policy_search,Unique Count of doc_name: 2,Number of Fields in Index: 3,Total Records in Index: 84
+2023-09-21 14:22:08,Update,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-21 14:22:24,Update,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-21 14:22:41,Update,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-21 14:22:54,Update,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-21 14:23:06,Read,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-22 10:08:58,doc_list,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-22 10:10:21,doc_list,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-22 10:10:32,Update,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-25 12:52:49,doc_list,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-25 13:00:04,List Of Documents,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-25 13:02:44,List Of Documents,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-25 13:03:02,List Of Documents,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-09-25 13:37:41,List Of Documents,Index Name: policy_search,Unique Count of doc_name: 1,Number of Fields in Index: 3,Total Records in Index: 66
+2023-10-04 18:22:31,List Of Documents,Index Name: policy_search,Unique Count of doc_name: 111,Number of Fields in Index: 3,Total Records in Index: 1885
+2023-10-04 18:22:37,List Of Documents,Index Name: test_2,Unique Count of doc_name: 9,Number of Fields in Index: 3,Total Records in Index: 325
+2023-10-04 18:22:44,List Of Documents,Index Name: test_2,Unique Count of doc_name: 9,Number of Fields in Index: 3,Total Records in Index: 325
+2023-10-05 12:14:12,List Of Documents,Index Name: qms_search,Unique Count of doc_name: 66,Number of Fields in Index: 3,Total Records in Index: 1002
+2023-10-05 18:29:44,Read Documents,Index Name: policy_search,Unique Count of doc_name: 111,Number of Fields in Index: 3,Total Records in Index: 1885
+2023-10-05 18:30:08,List Of Documents,Index Name: policy_search,Unique Count of doc_name: 111,Number of Fields in Index: 3,Total Records in Index: 1885
+2023-10-05 18:30:18,List Of Documents,Index Name: policy_search,Unique Count of doc_name: 111,Number of Fields in Index: 3,Total Records in Index: 1885
+2023-10-06 16:45:42,List Of Documents,Index Name: policy_search,Unique Count of doc_name: 111,Number of Fields in Index: 3,Total Records in Index: 1885
+2023-10-06 16:45:48,List Of Documents,Index Name: policy_search,Unique Count of doc_name: 111,Number of Fields in Index: 3,Total Records in Index: 1885
+2023-10-06 16:45:53,List Of Documents,Index Name: qms_search,Unique Count of doc_name: 66,Number of Fields in Index: 3,Total Records in Index: 1002
+2023-10-06 16:45:57,List Of Documents,Index Name: test_2,Unique Count of doc_name: 15,Number of Fields in Index: 3,Total Records in Index: 383
+2023-10-10 10:53:49,List Of Documents,Index Name: policy_search,Unique Count of doc_name: 111,Number of Fields in Index: 3,Total Records in Index: 1885
+2023-10-11 17:40:18,List Of Documents,Index Name: policy_search,Unique Count of doc_name: 111,Number of Fields in Index: 3,Total Records in Index: 1885
