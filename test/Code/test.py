@@ -31,7 +31,7 @@ session.cookies.set("__Secure-1PSID", os.getenv("_BARD_API_KEY"))
 
 
 with st.container():
-    image1 = Image.open("/var/lib/jenkins/workspace/Python build/test/resources/prodapt_logo.png")#prodapt logo
+    image1 = Image.open("/var/lib/jenkins/workspace/Python build/test/resources/prodapt_image.png")#prodapt logo
     st.sidebar.image(image1, width=125)
 # col1, col2 = st.sidebar.columns(2)
 
