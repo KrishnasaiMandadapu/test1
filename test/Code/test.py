@@ -11,12 +11,12 @@ import os
 import requests
 
 
-openai.api_key="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"
+openai.api_key="krishna"
 # quest_data="/home/support/Semantic_search_3/Embeddings/quest.csv"
 
-os.environ['_BARD_API_KEY'] = 'YAhoQ-pD09RoMqNeQxvntBfen4ybLmVDwZIP51bIt75C4EncYlEssopSSN0g0C8q3v8_7Q.'
+os.environ['_BARD_API_KEY'] = 'krishna'
 
-token='YAhoQ-pD09RoMqNeQxvntBfen4ybLmVDwZIP51bIt75C4EncYlEssopSSN0g0C8q3v8_7Q.'
+token='krishna'
 session = requests.Session()
 session.headers = {
             "Host": "bard.google.com",
@@ -31,7 +31,7 @@ session.cookies.set("__Secure-1PSID", os.getenv("_BARD_API_KEY"))
 
 
 with st.container():
-    image1 = Image.open("test/resources/prodapt_logo.png")#prodapt logo
+    image1 = Image.open("/workspace/Python build/test/resources/prodapt_logo.png")#prodapt logo
     st.sidebar.image(image1, width=125)
 # col1, col2 = st.sidebar.columns(2)
 
